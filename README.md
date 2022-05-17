@@ -14,7 +14,7 @@ make all
 ```
 
 This will make all the required libraries for FactorizableNet specific the the current system.
-Alternatively, you can also download lib.zip and extract to survOntFlaskApp/FactorizableNet. (It might not work on all systems)
+Alternatively, you can also download lib.zip and extract to survOntFlaskApp/FactorizableNet. 
 
 Then open two terminals. On the first terminal, run the backend from MTP_Ontology using:
 

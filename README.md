@@ -1,6 +1,6 @@
 # Visual_Ontology
 
-Google drive: https://drive.google.com/drive/folders/1Qx32_feo6rWlZNL3Y1dAyHck5XtTZdYn
+Google drive: https://drive.google.com/drive/folders/1BMh_i_Idncnk44_IjCpUWNSbf2ORFR5u?usp=sharing
 
 Download jdk-15.0.2.zip and vis_ont.zip. Extract them in the repository directory. 
 

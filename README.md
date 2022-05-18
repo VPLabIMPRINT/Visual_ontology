@@ -24,6 +24,8 @@ OS Version: Ubuntu 16.04 LTS
 
 Google drive: https://drive.google.com/drive/folders/1BMh_i_Idncnk44_IjCpUWNSbf2ORFR5u?usp=sharing
 
+Clone this respository.
+
 Download jdk-15.0.2.zip and vis_ont.zip. Extract them in the repository directory. 
 
 Download Revisiting_Single_Depth_Estimation.zip, FactorizableNet.zip and pretrained_model.zip. Extract them to survOntFlaskApp directory.

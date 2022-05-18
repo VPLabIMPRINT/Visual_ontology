@@ -1,4 +1,26 @@
 # Visual_Ontology
+## Prerequisites
+Java 15
+
+Python 2.7, 3.6.2
+
+Backend Frameworks: Flask 1.1.2, Spring Boot 2.4.2
+
+Protege Ontology Editor: OWL DL
+
+OWL Plugins: SWRL, SQWRL, SPARQL
+
+Jena API 3.16.0
+
+CUDA: 9.0
+
+Torch 1.1.0
+
+Torchvision 0.2.0
+
+OS Version: Ubuntu 16.04 LTS
+
+## Steps:
 
 Google drive: https://drive.google.com/drive/folders/1BMh_i_Idncnk44_IjCpUWNSbf2ORFR5u?usp=sharing
 
